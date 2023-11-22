@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1",
+        "region" : "Osaka",
+        "Tourist_destination" : "Osaka 554-0031",
+        "Tourist_dest_name" : "유니버셜 스튜디오 Japan",
+        "Tourist_dest_img" : ["universial1.jpg","universial2.jpg","universial3.jpg"],
+        "Tourist_dest_summary" : "유니버설 스튜디오 재팬은 유니버설 파크앤 리조트의 유니버설 스튜디오 중 하나로 일본 오사카시에 있다.",
+        "Tourist_dest_content" : "아시아에선 도쿄 디즈니 리조트에 이어 만년 2위를 기록하는 등 아시아의 콩라인 테마파크라는 이미지가 있으나, 2022년 연간 방문객 수 1,235만명을 기록하며 도쿄 디즈니 리조트를 누르고 아시아 테마파크 1위를 기록했다. 대한민국에서 가장 가까운 유니버설 스튜디오이기도 하다."
+    },
+    {
+        "id" : "2",
+        "region" : "Osaka",
+        "Tourist_destination" : "미도스지선 난바역 지하 상가의 14번 출구",
+        "Tourist_dest_name" : "도톤보리",
+        "Tourist_dest_img" : ["dotonbori1.jpg","dotonbori2.jpg"],
+        "Tourist_dest_summary" : " 일본 오사카부 오사카시 주오구의 지명으로, 이 지역의 북쪽을 흐르는 도톤보리강(일본어: 道頓堀川)의 약어이기도 하다. ",
+        "Tourist_dest_content" : "나카노시마 동부에서 남쪽으로 흐르는 운하인 히가시요코보리로부터 지금은 매립된 옛 니시요코보리(현재의 요츠바시스지)를 연결할 목적으로 건설되었으며, 서쪽의 키즈가와강까지 흐른다. 운하 도시 시절 이후 나가호리 등을 비롯한 대부분의 운하가 모두 매립되고, 토사보리(土佐堀), 히가시요코보리(東横堀)와 함께 살아남았다. 주변에 번화가가 형성되어서 강 양쪽으로 빌딩이 늘어서 있는 모습이 매우 독특하다."
+    },
+    {
+        "id" : "3",
+        "region" : "Osaka",
+        "Tourist_destination" : "미나토구 카이간도리 1초메 1-10",
+        "Tourist_dest_name" : "가이유칸 수족관",
+        "Tourist_dest_img" : ["guyukan.jpg"],
+        "Tourist_dest_summary" : "오사카 가이유칸 수족관은 세계에서 가장 큰 수족관 중 하나입니다.",
+        "Tourist_dest_content" : "다양한 해양 생물을 만나보실 수 있어요. 수족관 탱크는 아크릴 유리판으로 제작되어 유유히 헤엄치는 해양 생물들과 함께 바다속에 있는 듯한 느낌이 들죠. 영어, 중국어, 한국어를 지원하는 오디오 가이드를 대여하실 수 있습니다. 사람이 많아 혼잡할 수 있으니 공휴일이나 주말을 피해 방문하는 걸 추천해 드립니다"
+    },
+    {
+        "id" : "4",
+        "region" : "Osaka",
+        "Tourist_destination" : "우메다역과 오사카역에서 10분 거리.",
+        "Tourist_dest_name" : "우메다 스카이빌딩",
+        "Tourist_dest_img" : ["Umeda_Sky_building1.jpg","Umeda_Sky_building2.jpg"],
+        "Tourist_dest_summary" : "우메다 스카이 빌딩은 일본 오사카시에서 7번째로 높은 건물이자 오사카를 가장 잘 나타내는 랜드마크 중 하나이다.",
+        "Tourist_dest_content" : "건물 안에는 영화관과 식당가, 웨딩홀 등이 입점해 있다. 물론 가장 널리 알려진 것은 꼭대기의 공중정원 전망대. 1인 입장료는 1,500엔이지만 오사카 주유패스를 이용할 경우 무료입장 혜택을 받을수 있기 때문에 많은 관광객이 찾아온다. 단 오사카 주유패스 사용시 오후 4시까지만 무료입장이 가능하므로 겨울이 아닌이상 야경을 보기는 어렵다. 공중정원 전망대는 전일본 타워 협의회에 가입되어 있다."
+    }
+]
