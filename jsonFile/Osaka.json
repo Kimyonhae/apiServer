@@ -1,5 +1,14 @@
 [
     {
+        "id" : "0",
+        "region" : "오사카",
+        "Tourist_destination" : "설명 자료입니다.",
+        "Tourist_dest_name" : "일본",
+        "Tourist_dest_img" : ["ad.jpg","osaka.webp"],
+        "Tourist_dest_summary" : "설명 자료입니다.",
+        "Tourist_dest_content" : "일본의 광역자치단체 도도부현 중 하나이자 도쿄도에 이은 일본 제2의 도시. "
+    },
+    {
         "id" : "1",
         "region" : "Osaka",
         "Tourist_destination" : "Osaka 554-0031",

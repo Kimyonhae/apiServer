@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "0",
+        "region" : "오키나와",
+        "Tourist_destination" : "설명 자료입니다.",
+        "Tourist_dest_name" : "일본",
+        "Tourist_dest_img" : ["ad.jpg","okinawa.jpeg"],
+        "Tourist_dest_summary" : "설명 자료입니다.",
+        "Tourist_dest_content" : "오키나와현은 일본 최남단에 있는 현으로오키나와섬을 포함한 북위 27도 이남의 류큐 열도와 이오토리섬을 관할한다."
+    },
+    {
+        "id" : "1",
+        "region" : "Okinawa",
+        "Tourist_destination" : "(우)905-0206 오키나와현 구니가미군 모토부초 이시카와 오키나와 기념공원 해양박공원 424",
+        "Tourist_dest_name" : "오키나와 츄라우미 수족관",
+        "Tourist_dest_img" : ["aquarium.jpg"],
+        "Tourist_dest_summary" : "아름다운 바다’라는 뜻의 북부 대표 관광지인 세계 2위 규모의 거대 수족관 ",
+        "Tourist_dest_content" : "다양한 수족관에 물고기들과 야외에 무료 돌고래쇼까지 즐길 수 있는 곳 입니다"
+    },
+    {
+        "id" : "2",
+        "region" : "Okinawa",
+        "Tourist_destination" : "마츠오 오키나와현 나하 마키시 주변 900-0014",
+        "Tourist_dest_name" : "오키나와 국제거리",
+        "Tourist_dest_img" : ["Kukje Street.jpg","Kukje Street2.jpg"],
+        "Tourist_dest_summary" : "전쟁 후 도시 복구 과정에서 가장 눈부시게 발전한 여행자라면 꼭 들르는 나하의 대표 명소",
+        "Tourist_dest_content" : "여행이 짧거나 길거나 여행자라면 무조건 들르는 나하의 대표 명소, 국제거리. 전쟁 후 도시 복구 과정에서 가장 눈부시게 발전했던 곳"
+    },
+    {
+        "id" : "3",
+        "region" : "Okinawa",
+        "Tourist_destination" : "900-0014 오키나와 현 나하 마츠오 2-10-1",
+        "Tourist_dest_name" : "제1 마키시 공설시장",
+        "Tourist_dest_img" : ["public market.jpg"],
+        "Tourist_dest_summary" : "나하의 부엌이라 불릴만큼 없는게 없는 생생한 오키나와 일상을 엿볼 수 있는 대형 시장",
+        "Tourist_dest_content" : "130개 점포가 모여있는 대형 시장. '나하의 부엌'이라 불릴 만큼 입구만 무려 13개에 채소부터 생선까지 없는 게 없다. 관광지라기보다는 생생한 오키나와 일상을 엿볼 수 있는 곳이다. "
+    },
+    {
+        "id" : "4",
+        "region" : "Okinawa",
+        "Tourist_destination" : "905-0406 오키나와현 구니가미군 나키진손 현도 247호 코우리지마",
+        "Tourist_dest_name" : "코우리 대교",
+        "Tourist_dest_img" : ["bridge.jpg", "bridge2.jpg"],
+        "Tourist_dest_summary" : "2005년 개통한 오키나와에서 가장 긴 해중 도로이며 북부 최고의 해중 도로",
+        "Tourist_dest_content" : "2005년 개통한 북부 최고의 해중 도로. 오키나와에서 가장 긴 해중 도로로 길이만 2km다. 시원한 바닷바람을 맞으며 푸른 바다를 가르는 느낌이다."
+    }
+]

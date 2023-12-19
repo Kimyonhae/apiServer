@@ -15,6 +15,8 @@ server.get('/',(req,res) => {
                 <li>교토 -> Kyoto </li>
                 <li>오사카 -> Osaka</li>
                 <li>후쿠오카 -> Fukuoka</li>
+                <li>나고야 -> Nagoya</li>
+                <li>오키나와 -> Okinawa</li>
             </ol>
 <pre>
     data 형식은 
@@ -71,6 +73,18 @@ server.get('/Osaka',(req,res) => {
 // Fukuoka 
 server.get('/Fukuoka',(req,res) => {
     const json_file = fileReadFc("jsonFile/Fukuoka.json");
+    res.json(json_file);
+});
+
+// Nagoya 
+server.get('/Nagoya',(req,res) => {
+    const json_file = fileReadFc("jsonFile/Nagoya.json");
+    res.json(json_file);
+});
+
+// Okinawa 
+server.get('/Okinawa',(req,res) => {
+    const json_file = fileReadFc("jsonFile/Okinawa.json");
     res.json(json_file);
 });
 

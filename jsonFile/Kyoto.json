@@ -1,4 +1,13 @@
-[
+[   
+    {
+        "id" : "0",
+        "region" : "교토",
+        "Tourist_destination" : "설명 자료입니다.",
+        "Tourist_dest_name" : "일본",
+        "Tourist_dest_img" : ["ad.jpg","kyoto.jpg"],
+        "Tourist_dest_summary" : "설명 자료입니다.",
+        "Tourist_dest_content" : "교토부의 중심 도시이며 부청 소재지이다. 교토 라고 하면 교토시와 그 주변을 가리킨다. 오사카 다음가는 간사이 제2의 도시이며 1868년 메이지 유신 전까지 일본의 수도였다."
+    },
     {
         "id" : "1",
         "region" : "Kyoto",

@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "0",
+        "region" : "나고야",
+        "Tourist_destination" : "설명 자료입니다.",
+        "Tourist_dest_name" : "일본",
+        "Tourist_dest_img" : ["ad.jpg","nagoya.jpg"],
+        "Tourist_dest_summary" : "설명 자료입니다.",
+        "Tourist_dest_content" : "일본에서 3대 대도시로 꼽힐 정도로 큰 도시이지만 정작 관광지로서의 존재감은 매우 약하다."
+    },
+    {
+        "id" : "1",
+        "region" : "Nagoya",
+        "Tourist_destination" : "460-0031 아이치현 나고야시 나카 혼마루 1-1",
+        "Tourist_dest_name" : "나고야 성",
+        "Tourist_dest_img" : ["Nagoya Castle.jpg", "Nagoya Castle2.jpg"],
+        "Tourist_dest_summary" : "도쿠가와가 도요토미를 견제하기 위해 축조하고 자신의 정치적 기반을 다져나간 곳 ",
+        "Tourist_dest_content" : "당시 이마가와(今川) 가문의 성으로 도쿠가와 이에야스가 천하통일을 위해 이 성을 허물고 새로운 성을 지었는데 그것이 지금의 나고야 성이다. "
+    },
+    {
+        "id" : "2",
+        "region" : "Nagoya",
+        "Tourist_destination" : "460-0011 아이치현 나고야시 나카시 오스 3",
+        "Tourist_dest_name" : "오스 상점가",
+        "Tourist_dest_img" : ["Osu Shopping Street.jpg", "Osu Shopping Street2.jpg"],
+        "Tourist_dest_summary" : "나고야시 나카구에 위치한 나고야 최대 규모의 상점가",
+        "Tourist_dest_content" : "오스(大須)라는 지역명은 오스관음(大須観音)에서 유래하며 이 지역의 독특한 분위기는 예로부터 나이, 성별, 국적에 관계없이 다양한 문화가 함께 공존하는 곳으로 유명하다."
+    },
+    {
+        "id" : "3",
+        "region" : "Nagoya",
+        "Tourist_destination" : "아이치현 나고야시 나카시 사카에시",
+        "Tourist_dest_name" : "나고야 사카에",
+        "Tourist_dest_img" : ["Nagoya Sakae.jpg","Nagoya Sakae2.jpg"],
+        "Tourist_dest_summary" : "나고야의 중심에 위치한 최대 규모의 번화가. 즐길 거리가 가득해 항상 방문객으로 붐비는 곳",
+        "Tourist_dest_content" : "나고야의 중심에 위치한 최대 규모의 번화가이다. 쇼핑과 음식점, 카페 등 즐길 거리가 가득해 항상 방문객으로 붐비는 곳이다. "
+    },
+    {
+        "id" : "4",
+        "region" : "Nagoya",
+        "Tourist_destination" : "아이치현 나고야시 나카시 사카에 2-17-1 460-0008",
+        "Tourist_dest_name" : "나고야시 과학관",
+        "Tourist_dest_img" : ["Nagoya City Science Museum.jpg","Nagoya City Science Museum2.jpg"],
+        "Tourist_dest_summary" : "나고야시 예술과 과학의 숲 시라카와 공원에 위치한 시립박물관.",
+        "Tourist_dest_content" : "나고야시 예술과 과학의 숲 시라카와 공원에 위치한 시립박물관으로 나고야 시정 70주년을 기념하며 1962년 개관하였다. 천체투영기 플라네타륨을 중심으로 한 천문관, 물리와 원리를 다룬 이공관, 생명과 환경을 다루는 생명관 등으로 이루어져 있다."
+    }
+]
